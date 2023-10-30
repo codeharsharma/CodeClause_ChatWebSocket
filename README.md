@@ -9,5 +9,8 @@ This project enables you to send and receive messages instantly between connecte
 <strong>Simple Interface:</strong> The chat interface is easy to use and understand.<br>
 
 ## Snapshots
+![user1](https://github.com/codeharsharma/CodeClause_ChatWebSocket/assets/92158587/0636aca1-f1fb-4346-8e00-295a2d7e931d)
+<br>
+![user2](https://github.com/codeharsharma/CodeClause_ChatWebSocket/assets/92158587/a6c37a74-2656-47ca-bb4a-82d4c3c61ace)
 
 
